@@ -191,7 +191,7 @@ MyID is a backend-focused project designed around:
 ### 🎯 Career Goals
 
 - 💼 Start my career as a Junior Backend Developer
-- 🐘 Grow deeper in PHP & Laravel
+- 🐘 Grow deeper in Backend
 - 🌐 Build production-ready REST APIs
 - 🗄️ Strengthen database architecture skills
 - 🔧 Develop stronger Laravel skills
