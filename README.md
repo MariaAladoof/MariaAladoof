@@ -62,7 +62,7 @@ I’m a **Computer Science graduate** focused on **Backend Development** with PH
 
 I’m interested in building reliable backend systems, designing databases, developing RESTful APIs, implementing authentication, and writing clean and maintainable code.
 
-Currently, I’m working on **MyID**, a Laravel-based backend project focused on number ownership verification, authentication, reporting, and secure API design.
+Currently, I’m working on **MyID**, a Laravel-based backend project focused on number ownership verification, authentication,and secure API design.
 
 <br>
 
