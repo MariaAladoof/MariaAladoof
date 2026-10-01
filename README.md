@@ -181,7 +181,6 @@ MyID is a backend-focused project designed around:
 - 🧩 Developing RESTful APIs with Laravel
 - 🗄️ Improving MySQL & database design
 - 🔐 Working with authentication and authorization
-- 🧠 Strengthening PHP & OOP concepts
 - 🧪 Testing APIs with Postman
 - 🧹 Improving clean and maintainable code
 
@@ -238,16 +237,7 @@ Junior Backend Developer
 
 <br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> Currently Learning
-
-- 🐘 Advanced PHP & Object-Oriented Programming
-- 🚀 Laravel Development
-- 🗄️ Advanced MySQL
-- 🌐 REST API Design
-- 🔐 API Authentication & Security
-- 🧪 Backend Testing
-- 🧹 Clean Code & Maintainable Architecture
-- 🌿 Git & GitHub Workflows
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
